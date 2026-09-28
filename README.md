@@ -44,3 +44,11 @@ O objetivo foi explorar a base, entender seu modelo de dados e construir consult
 - DBeaver Community
 - Dataset Olist Brazilian E-Commerce
 
+## Como rodar
+
+1. Instale o PostgreSQL localmente;
+2. Instale o DBeaver Community;
+3. Baixe o dataset Olist no Kaggle;
+4. Importe os CSVs no PostgreSQL via DBeaver;
+5. Execute os scripts.
+
