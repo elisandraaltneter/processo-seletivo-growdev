@@ -1,4 +1,4 @@
-# Desafio SQL — GrowMarket (Olist)
+# Desafio SQL 
 
 ## Sobre o projeto
 
